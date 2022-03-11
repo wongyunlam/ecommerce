@@ -6,7 +6,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <>
-                    <h1>Ecommerce</h1>
+                    <h1>Ecommerce dev commit test</h1>
                 </>
             </header>
         </div>
